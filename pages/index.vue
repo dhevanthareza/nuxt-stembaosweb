@@ -29,8 +29,15 @@
           <v-flex class="wow fadeInRight" sm12 md6>
             <span
               class="description"
-            >an OS from developer to developer, with a built-in application that is very useful for developers and IT students, not only developers, a network engineer is suitable to use this, maybe you ask, why not like the previous version that has all applications for all majors in school, This version is only suitable for users in the IT field, because we realize Linux cannot be used by all fields of work, especially in the graphics field</span>
+            >an OS from developer for developer, with a built-in application that is very useful for developers and IT students, not only developers, a network engineer is suitable to use this, maybe you ask, why not like the previous version that has all applications for all majors in school, This version is only suitable for users in the IT field, because we realize Linux cannot be used by all fields of work, especially in the graphics field</span>
           </v-flex>
+        </v-layout>
+      </v-container>
+    </div>
+    <div id="feature">
+      <v-container>
+        <v-layout row wrap> 
+          
         </v-layout>
       </v-container>
     </div>
@@ -44,8 +51,10 @@
         >
           <img width="80%" class="wow bounceIn" src="@/assets/img/stembaos.PNG">
         </v-flex>
-        <v-flex xs12 sm12 md6 style="text-align: center;background-color: #084071;">
+        <v-flex xs12 sm12 md6 style="text-align: center;background-color: #084071;padding: 20px">
           <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 3.0</v-btn>
+          <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 2.0</v-btn>
+          <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 1.0</v-btn>
         </v-flex>
       </v-layout>
     </div>
