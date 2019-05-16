@@ -52,9 +52,9 @@
           <img width="80%" class="wow bounceIn" src="@/assets/img/stembaos.PNG">
         </v-flex>
         <v-flex xs12 sm12 md6 style="text-align: center;background-color: #084071;padding: 20px">
-          <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 3.0</v-btn>
-          <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 2.0</v-btn>
-          <v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 1.0</v-btn>
+          <a href="https://drive.google.com/file/d/1VaY4fhvkEUKAJWXmrQHt-7C544uZ7dSX/view?usp=sharing"><v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 3.0</v-btn></a>
+          <a href="https://drive.google.com/file/d/18EMxy1lOhpe4UcekOcWVc0FCRYnbqz2j/view?usp=sharing"><v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 2.0</v-btn></a>
+          <a href="https://drive.google.com/file/d/1EPe9ff1xUxiOfUCiarTDaufgBQpy-SF8/view?usp=sharing"><v-btn class="wow bounceIn" round outline color="white">Download Stemba OS 1.0</v-btn></a>
         </v-flex>
       </v-layout>
     </div>
